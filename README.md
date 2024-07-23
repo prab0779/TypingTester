@@ -16,6 +16,6 @@ How to Run the Script
 
 Save the code to a file named typing_tester.py.
 
-
+Run the script with Python: python typing_tester.py
 
 ![image](https://github.com/user-attachments/assets/3df2c9ba-0983-4000-89e1-da0b27651340)
