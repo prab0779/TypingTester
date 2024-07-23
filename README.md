@@ -13,7 +13,9 @@ Start and Retry Options: Users can start a new test or retry the same text.
 Responsive GUI: The GUI is designed to be more user-friendly and visually appealing.
 
 How to Run the Script
+
 Save the code to a file named typing_tester.py.
+
 
 
 ![image](https://github.com/user-attachments/assets/3df2c9ba-0983-4000-89e1-da0b27651340)
